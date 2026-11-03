@@ -1,0 +1,2 @@
+# comprehensive store
+This is an add-on for the Gishu screen reader that helps blind users access a wide range of applications and websites compatible with their screens. You can download any application by clicking on any section, navigating to the application you want to download, clicking on it, and then downloading it via a direct link. The applications are available for all systems, and the add-on was developed by Mohamed Amer from the  technical learning team.
